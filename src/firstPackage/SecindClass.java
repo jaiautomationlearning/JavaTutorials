@@ -6,7 +6,6 @@ public class SecindClass {
 		
 		System.out.println("Hello Friends: This is Second class");
 		System.out.println("Hello Friends: This is for difference");
-		System.out.println("Hello Friends: This is for restore");
 
 	}
 
